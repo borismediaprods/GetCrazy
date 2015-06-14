@@ -1,0 +1,12 @@
+#portfolio {
+	color: #FFF;
+	background-color: #18BC9C;
+}
+section.success {
+	color: #2C3E50;
+	background-color: #FFF;
+}
+#portfolio .portfolio-item .portfolio-link .caption {
+	background: rgb(44, 62, 80);
+	background: rgba(44, 62, 80, 0.8);
+}

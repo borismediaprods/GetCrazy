@@ -1,0 +1,12 @@
+{
+  "name": "getCrazy",
+  "version": "0.0.0",
+  "description": "Website for the Get Crazy! company.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Paul Olteanu <p.a.olteanu@gmail.com> & Boris Skurikhin",
+  "dependencies": {
+    "express": "*",
+    "morgan": "^1.5.3"
+  }
+}
